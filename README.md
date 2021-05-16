@@ -4,7 +4,7 @@ Classification of images in CIFAR10 dataset
 The CIFAR-10 data set has 10 classes: aeroplane, automobile, bird,cat, deer, dog,frog, horse, ship, truck. The data set has 60,000 images to classify. Training data set has 50,000 images and the testing dataset has 10,000 images. The original data set was divided into 5 training-batches and 1 test-batch having same number of images per class.
 # Getting Started
 # Dependencies
-*Numpy
+* Numpy
 *Pandas
 *Matplotlib
 *Scikitlearn
