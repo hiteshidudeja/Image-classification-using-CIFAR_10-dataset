@@ -12,9 +12,9 @@ The CIFAR-10 data set has 10 classes: aeroplane, automobile, bird,cat, deer, dog
 * Pickle
 * Seaborn
 ## Contributors
-* Hiteshi Singh (B19EE039)
-* Zeba Karkhanawala (B19EE093)
-* Kwanit Gupta (B19EE046)
+* [Hiteshi Singh](https://github.com/hiteshidudeja)
+* [Zeba Karkhanawala](https://www.linkedin.com/in/zeba-karkhanawala-65904a18b/)
+* [Kwanit Gupta](https://github.com/kwanit1142)
 ## Classifiers Used
 * Neural Networks <br/>
 Neural networks are a set of algorithms, modeled after the human brain, that are designed to recognize patterns. A neural network is composed of several layers which are made of nodes. A node combines input from the data with weights.These input-weight products are summed and then the sum is passed through a node’s activation function.
